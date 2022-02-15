@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemmyNLayerProject.API", "UdemmyNLayerProject.API\UdemmyNLayerProject.API.csproj", "{3804E31D-C9B6-455A-8486-D78A5971A3DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3804E31D-C9B6-455A-8486-D78A5971A3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3804E31D-C9B6-455A-8486-D78A5971A3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3804E31D-C9B6-455A-8486-D78A5971A3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3804E31D-C9B6-455A-8486-D78A5971A3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588096B7-098E-4B0C-A32F-78E4DDA32A61}
+	EndGlobalSection
+EndGlobal

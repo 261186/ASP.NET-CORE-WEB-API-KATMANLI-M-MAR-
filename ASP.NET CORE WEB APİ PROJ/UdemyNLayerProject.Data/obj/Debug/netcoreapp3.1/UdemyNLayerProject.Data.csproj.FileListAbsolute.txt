@@ -1,0 +1,10 @@
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.deps.json
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.AssemblyReference.cache
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfoInputs.cache
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfo.cs
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\drnma\Desktop\ASP.NET CORE WEB APİ PROJ\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
